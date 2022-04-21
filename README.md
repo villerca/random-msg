@@ -17,7 +17,7 @@ mensaje aleatorio
 ```
 
 # contribuyendo
-Si alguien quiere agregar o mejorar algo, lo invito a colaborar directamente en este repositorio: [random-msg](https://github.com/platzi/npm-random-msg)
+Si alguien quiere agregar o mejorar algo, lo invito a colaborar directamente en este repositorio: [random-msg](https://github.com/villerca/random-msg.git)
 
 # Licencia
 random-msg se publica bajo la [Licencia MIT] (https://opensource.org/licenses/MIT).
